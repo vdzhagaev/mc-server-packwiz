@@ -1,0 +1,13 @@
+name = "IGORY"
+author = "ME&KO"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "63d29608ceb829d6f40aeec436421fccee6838e4f39a87447a79afe3b419a8e6"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.228"
