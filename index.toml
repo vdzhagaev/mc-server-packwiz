@@ -170,7 +170,7 @@ hash = "09d330b29443d9579ecc014f2be2fcb31075bfe1e9f9ac4e750f271128650fe6"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "55c2840f65df8457947217bc6711f0e8e73e693e2ec361f125ba131e3fa8171f"
+hash = "cb8dc956157a9aadc1041ae4b9a0d992cf453de700ad25e987faa5104910ae7b"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -210,7 +210,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "79669893834a36972b18137a7f55c627fa94398861fc934c4efaaf35ed358868"
+hash = "cdf7194bad03f418b8bf83dd8e5712ebef519eea237c19b641d80a9b958840a8"
 
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
@@ -255,6 +255,10 @@ hash = "a0d2dfe42660931e2760ac72cfbe2eff420219b317ce7ad3db3fce0e392792a9"
 [[files]]
 file = "config/jeresources-common.toml"
 hash = "b8e340097e9b479a5d66593f01c1c84a8a8fdc1ed960eccb11676ee7612537e2"
+
+[[files]]
+file = "config/lambdynlights.toml"
+hash = "fdd6958ff17541c8d1c891bd1602088bb6888f41229e966387a07311f32ec6d9"
 
 [[files]]
 file = "config/lithium.properties"
@@ -464,6 +468,11 @@ hash = "1c0aa4ce97caaeeff518e87711dff2769402148d74467f75154bc0e9843e4979"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "8bfd98343c4328a883ead3e1d04e3743fde4edf0143dd234aa28210a21ac1506"
+metafile = true
+
+[[files]]
 file = "mods/createaddition.pw.toml"
 hash = "7aa0060e5df8631d27a789d73eb57d67c611b95be5bce4175810351e9479ae60"
 metafile = true
@@ -564,6 +573,11 @@ hash = "6f5d8914b1d58757dc8615faaf5f240e05012eec6367fa3ebfcdac565c782505"
 metafile = true
 
 [[files]]
+file = "mods/sable.pw.toml"
+hash = "8f3670cd178c82927b7fb0bda8a086d857fb3f0ba6b8c6d3b41ab11915bc8c67"
+metafile = true
+
+[[files]]
 file = "mods/stacked-blocks-farmers-delight.pw.toml"
 hash = "0490df826d4c9e31c9d5cd0ae5efda615aba70c13a392cb4a10f0e2698a97828"
 metafile = true
@@ -576,4 +590,9 @@ metafile = true
 [[files]]
 file = "mods/veggies-delight.pw.toml"
 hash = "7b2b4a09579f0edcf1172a33a298893c7d806c7c293e79ee315ac937f8dfa4a0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "da66421a2a0dcab59fc4b17705b0aae4cd88b20634ebea20b0224fee2bef8251"
 metafile = true
