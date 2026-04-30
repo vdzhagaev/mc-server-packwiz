@@ -1,12 +1,11 @@
-name = "IGORY"
-author = "ME&KO"
+name = "Minecraft Modpack"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d5a8e67b9c5954c34f91076274b51280016ce1a72cf0c5404770706551b47f6e"
+hash = "3e0d383452c5ab95f442e71df4e01cd182327dd8eed0c0174699d76eb903a808"
 
 [versions]
 minecraft = "1.21.1"
